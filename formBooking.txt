@@ -1,0 +1,11 @@
+https://booksecure.DOMAINNAME.com/process/search?passengers=1
+&adult_passengers=1
+&child_passengers=0
+&senior_passengers=0
+&infant_passengers=0
+&origin=SLC
+&dest=JFK
+&return=1
+&depart_date=05/20/2011
+&return_date=05/31/2011
+&selectedSearchType=FLEXIBLE

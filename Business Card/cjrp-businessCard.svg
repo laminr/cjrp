@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="315.35431"
+   height="180.70866"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="cjrp-businessCard.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0804407"
+     inkscape:cx="174.21717"
+     inkscape:cy="94.91616"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:snap-from-guide="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-871.65353)">
+    <rect
+       style="fill:#4e869f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2985"
+       width="315.31781"
+       height="71.619438"
+       x="0.48066738"
+       y="981.22345" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 249.41604,880.76498 c -14.09808,0.16204 -29.45412,3.69044 -44.73062,10.56543 31.83395,-7.09208 60.92276,0.55063 74.70855,22.8225 20.60837,33.29423 -0.79957,86.60709 -47.82817,119.09849 -13.69912,9.4645 -28.06864,16.0913 -42.05309,19.9437 20.773,-1.0514 43.93189,-9.1533 65.46842,-24.3955 47.02859,-33.28363 68.43654,-87.93037 47.82816,-122.03655 -10.62619,-17.586 -30.33083,-26.26315 -53.39325,-25.99807 z"
+       id="path3755"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
